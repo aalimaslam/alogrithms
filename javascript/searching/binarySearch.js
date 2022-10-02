@@ -1,4 +1,5 @@
 // Code for the binarySearch
+// Before using this function remember the array should be sorted.
 
 function binarySearch(arr, key) {
   let lower = 0;
