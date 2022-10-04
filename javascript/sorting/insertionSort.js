@@ -1,8 +1,8 @@
 // code for insertion Sorting.
 
 function insertionSort(arr, n) {
+  // loop for outer passes.
   for (let i = 0; i < n - 1; i++) {
-    // outer passes
     let elem = arr[i + 1];
 
     for (let j = i; j >= 0; j--) {
