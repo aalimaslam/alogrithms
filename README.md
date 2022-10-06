@@ -4,6 +4,6 @@
 ### everyone is here to learn.
 
 # :handshake: Our Contributors
-<a href="hhttps://github.com/aalimaslam/hacktoberfest-2022/graphs/contributors">
+<a href="hhttps://github.com/aalimaslam/alogrithms/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=aalimaslam/alogrithms" />
 </a>
