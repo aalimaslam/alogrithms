@@ -5,5 +5,5 @@
 
 # :handshake: Our Contributors
 <a href="hhttps://github.com/aalimaslam/hacktoberfest-2022/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=aalimaslam/hacktoberfest-2022" />
+  <img src="https://contrib.rocks/image?repo=aalimaslam/alogrithms" />
 </a>
