@@ -1,6 +1,6 @@
 import math
 
-def JumpSearch (lys, val):
+def jump_search (lys, val):
     length = len(lys)
     jump = int(math.sqrt(length))
     left, right = 0, 0
