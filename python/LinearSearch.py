@@ -1,6 +1,6 @@
 # Linear Search in Python
 
-def linearSearch(array, n, x):
+def linear_search(array, n, x):
 
     # Going through array sequencially
 
@@ -18,7 +18,7 @@ x = 1
 
 n = len(array)
 
-result = linearSearch(array, n, x)
+result = linear_search(array, n, x)
 
 if(result == -1):
 
