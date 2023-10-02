@@ -1,4 +1,4 @@
-def BinarySearch(lys, val):
+def binary_search(lys, val):
     first = 0
     last = len(lys)-1
     index = -1
