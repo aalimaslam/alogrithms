@@ -1,4 +1,4 @@
-def FibonacciSearch(lys, val):
+def fibonacci_search(lys, val):
     fibM_minus_2 = 0
     fibM_minus_1 = 1
     fibM = fibM_minus_1 + fibM_minus_2
